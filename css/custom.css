@@ -1,0 +1,15 @@
+body.main {
+  background-image: url("../img/upview_lg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body.projects {
+  background-image: url("../img/circlesparks_lg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body.about {
+  background-image: url("../img/mobilapps_lg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
