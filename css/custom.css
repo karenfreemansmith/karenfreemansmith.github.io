@@ -45,3 +45,41 @@ a {
 .main .container{
   width: 95%;
 }
+
+/* using for troubleshooting to see layout */
+.about .firstrow .firstcol {
+  background: yellow;
+  opacity: .3;
+}
+.about .firstrow .secondcol {
+  background: orange;
+  opacity: .3;
+}
+.about .firstrow .thirdcol {
+  background: red;
+  opacity: .3;
+}
+.about .secondrow .firstcol {
+  background: green;
+  opacity: .3;
+}
+.about .secondrow .secondcol {
+  background: blue;
+  opacity: .3;
+}
+.about .secondrow .thirdcol {
+  background: purple;
+  opacity: .3;
+}
+.about .thirdrow .firstcol {
+  background: white;
+  opacity: .3;
+}
+.about .thirdrow .secondcol {
+  background: gray;
+  opacity: .3;
+}
+.about .thirdrow .thirdcol {
+  background: black;
+  opacity: .3;
+}
