@@ -6,16 +6,20 @@ __Version 1.0.0: August 5, 2016__
 
 ### Description
 __*Final Project for Epicodus Intro to Programming Week 1*__
-Build a portfolio website using HTML, CSS, and Bootstrap that includes the following:
+A portfolio website using HTML, CSS, and Bootstrap that includes the following:
+* My name (positioned prominently on each page using custom CSS to override Bootstrap defaults)
+* 3 background images that represent my future goals and 2 photos of me as a child that link to about and project pages.
 
-* Your Name
-* An image of you or something that represents who you are
+
 * A list of projects you have created with active links to them (either on GitHub or GitHub Pages).
   * For each, include a brief description of the project and what language it uses.
+
 * An "About Me" section.
   * Your background (educatin, job experience, or why you decided to take a class on programming, etc).
   * Your current interests/hobbies/skills
+
 * Create a gh-pages branch so that your site can be viewed on [GitHub Pages](http://karenfreemansmith.github.io/myportfolio)
+
 * Commit every major code change.
 * Include a README.md in your GitHub repository.
 
