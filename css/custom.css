@@ -1,3 +1,6 @@
+body {
+  width: 1180px;
+}
 body.main {
   background-image: url("../img/upview_lg.jpg");
   background-size: cover;
@@ -12,4 +15,18 @@ body.about {
   background-image: url("../img/mobilapps_lg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+.jumbotron {
+  margin-top: 25%;
+  background: transparent;
+}
+h1, h2 {
+  text-align: center;
+  color: white;
+}
+.main h1, .main h2 {
+  color: black;
+}
+.projects h1 {
+  margin-top: 35%;
 }
