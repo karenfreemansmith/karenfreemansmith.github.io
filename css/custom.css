@@ -77,7 +77,25 @@ a, a:hover, a:active {
     margin: auto;
   }
 }
-
+@media screen and (max-width:840px) {
+  .carousel {
+    margin-top: 5%;
+  }
+  .item p {
+    display:none;
+  }
+}
+@media screen and (max-width:530px) {
+  .item h3 {
+    font-size:1em;
+  }
+  .projects h2 {
+    display:none;
+  }
+  .carousel {
+    margin-top: 2%;
+  }
+}
 /* using for troubleshooting to see layout
 .about .firstrow .firstcol {
   background: yellow;
