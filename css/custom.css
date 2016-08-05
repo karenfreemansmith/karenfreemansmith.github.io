@@ -1,5 +1,6 @@
 body {
   color: #ccc;
+  margin-top: 60px;
 }
 body.main {
   background-image: url("../img/upview_lg.jpg");
@@ -21,10 +22,10 @@ body.about {
   background: transparent;
 }
 .carousel {
-  margin-top: 10%;
+  margin-top: 5%;
 }
 .carousel-inner {
-  width: 25%;
+  width: 30%;
   height: 30%;
   margin: auto;
 }
