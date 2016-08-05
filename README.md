@@ -19,9 +19,10 @@ A portfolio website using HTML, CSS, and Bootstrap that includes the following:
   * work experience with skills highlighted (uses span tag)
   * why I'm attending Epicodus
   * my hobbies and interests
-* Fixed navbar at bottom (uses ul tags)
-* Create a gh-pages branch so that your site can be viewed on [GitHub Pages](http://karenfreemansmith.github.io/myportfolio)
-* Commit every major code change.
+* Fixed navbar at top (uses ul tags) with responsive/collapsible features
+* Pages are responsive and should display at most widths
+* Site can be viewed on [GitHub Pages](http://karenfreemansmith.github.io/myportfolio)
+* Commit history shows major changes (and some minor ones)
 * Include a README.md in your GitHub repository.
 
 ### Setup/Installation
