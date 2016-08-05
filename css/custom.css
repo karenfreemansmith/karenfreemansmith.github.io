@@ -27,6 +27,15 @@ h1, h2 {
 .main h1, .main h2 {
   color: black;
 }
+.main h3 {
+  text-align: center;
+}
+.main a {
+  color: gray;
+}
+.main .container{
+  width: 95%;
+}
 .projects h1 {
   margin-top: 35%;
 }
