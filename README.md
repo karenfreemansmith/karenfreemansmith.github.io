@@ -9,10 +9,11 @@ __*Final Project for Epicodus Intro to Programming Week 1*__
 A portfolio website using HTML, CSS, and Bootstrap that includes the following:
 * My name (positioned prominently on each page using custom CSS to override Bootstrap defaults)
 * 3 background images that represent my future goals and 2 photos of me as a child that link to about and project pages.
-
-
-* A list of projects you have created with active links to them (either on GitHub or GitHub Pages).
-  * For each, include a brief description of the project and what language it uses.
+* A project page with list of projects with active links to GitHub repositories:
+  * Project title - linked to repository
+  * Brief description of the project
+  * What language and technologies it uses
+* Projects are displayed using the Bootstrap carousel with slide indicators (that rely on an ordered list - uses ol tag)
 
 * An "About Me" section.
   * Your background (education, job experience, or why you decided to take a class on programming, etc).
