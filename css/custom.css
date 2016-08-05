@@ -42,6 +42,14 @@ body.about {
 .main h1 {
   font-size: 5em;
 }
+.goright {
+  float: right;
+  max-width: 50%;
+}
+.goleft {
+  float: left;
+  max-width: 50%;
+}
 .carousel {
   margin-top: 10%;
 }
