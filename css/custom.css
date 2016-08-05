@@ -1,5 +1,6 @@
 body {
   color: #ccc;
+  font-family: 'Dosis', sans-serif;
   margin-top: 60px;
 }
 body.main {
@@ -25,9 +26,21 @@ body.about {
   background-image:none;
   width: 95%;
 }
+.about p, .about li {
+  font-size: 1.3em;
+}
+.about h4 {
+  font-size: 2em;
+}
+.about h2 {
+  font-size: 3em;
+}
 .main .jumbotron {
   margin-top: 25%;
   background: transparent;
+}
+.main h1 {
+  font-size: 5em;
 }
 .carousel {
   margin-top: 10%;
@@ -48,9 +61,18 @@ body.about {
 .item:hover {
   opacity: .9;
 }
+.item p:hover {
+  color: black;
+}
+h1 {}
+h2 {}
+h3 {}
+h4 {}
 h1, h2 {
   text-align: center;
-  color: #fffae6;
+}
+h1, h2, h3, h4 {
+  font-family: 'Poiret One', cursive;
 }
 .main h1, .main h2 {
   color: black;
@@ -58,7 +80,10 @@ h1, h2 {
 .main h3 {
   text-align: center;
 }
-a, a:hover, a:active {
+a {
+  color: #804d00;
+}
+a:hover, a:active {
   color: #fffae6;
 }
 .container{
