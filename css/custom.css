@@ -39,7 +39,7 @@ h1, h2 {
 .main h3 {
   text-align: center;
 }
-a {
+a, a:hover, a:active {
   color: #fffae6;
 }
 .main .container{
