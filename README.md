@@ -13,14 +13,14 @@ A portfolio website using HTML, CSS, and Bootstrap that includes the following:
   * Project title - linked to repository
   * Brief description of the project
   * What language and technologies it uses
-* Projects are displayed using the Bootstrap carousel with slide indicators (that rely on an ordered list - uses ol tag)
-
+  * Projects are displayed using the Bootstrap carousel with slide indicators (that rely on an ordered list - uses ol tag)
 * An "About Me" section.
-  * Your background (education, job experience, or why you decided to take a class on programming, etc).
-  * Your current interests/hobbies/skills
-
+  * education background
+  * work experience with skills highlighted (uses span tag)
+  * why I'm attending Epicodus
+  * my hobbies and interests
+* Fixed navbar at bottom (uses ul tags)
 * Create a gh-pages branch so that your site can be viewed on [GitHub Pages](http://karenfreemansmith.github.io/myportfolio)
-
 * Commit every major code change.
 * Include a README.md in your GitHub repository.
 
