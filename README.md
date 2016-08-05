@@ -15,7 +15,7 @@ A portfolio website using HTML, CSS, and Bootstrap that includes the following:
   * For each, include a brief description of the project and what language it uses.
 
 * An "About Me" section.
-  * Your background (educatin, job experience, or why you decided to take a class on programming, etc).
+  * Your background (education, job experience, or why you decided to take a class on programming, etc).
   * Your current interests/hobbies/skills
 
 * Create a gh-pages branch so that your site can be viewed on [GitHub Pages](http://karenfreemansmith.github.io/myportfolio)
