@@ -45,8 +45,13 @@ a {
 .main .container{
   width: 95%;
 }
-
-/* using for troubleshooting to see layout */
+.about h4 {
+  border-bottom: solid 2px rgba(255, 235, 204,.3);
+}
+.skills {
+  background-color: rgba(255, 235, 204,.3);
+}
+/* using for troubleshooting to see layout
 .about .firstrow .firstcol {
   background: yellow;
   opacity: .3;
@@ -83,3 +88,4 @@ a {
   background: black;
   opacity: .3;
 }
+ */
