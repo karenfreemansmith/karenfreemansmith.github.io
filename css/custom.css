@@ -3,61 +3,76 @@ body {
   font-family: 'Dosis', sans-serif;
   margin-top: 60px;
 }
+
 body.main {
   background-image: url("../img/upview_lg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 body.projects {
   background-image: url("../img/circlesparks_lg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 body.about {
   /* moved from body to container because of sizing issues with the hands */
   background-color: black; /*added background color to blend with photo*/
 }
+
 .about .container {
   background-image: url("../img/mobilapps_lg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .about .navbar .container {
   background-image:none;
   width: 95%;
 }
+
 .about p, .about li {
   font-size: 1.3em;
 }
+
 .about h4 {
   font-size: 2em;
 }
+
 .about h2 {
   font-size: 3em;
 }
+
 .main .jumbotron {
   margin-top: 25%;
   background: transparent;
 }
+
 .main h1 {
   font-size: 5em;
 }
+
 .goright {
   float: right;
   max-width: 50%;
 }
+
 .goleft {
   float: left;
   max-width: 50%;
 }
+
 .carousel {
   margin-top: 10%;
 }
+
 .carousel-inner {
   width: 30%;
   height: 30%;
   margin: auto;
 }
+
 .item {
   background: #ffcc80;
   opacity: .4;
@@ -66,40 +81,47 @@ body.about {
   width: 100%;
   height: 100%;
 }
+
 .item:hover {
   opacity: .9;
 }
+
 .item p:hover {
   color: black;
 }
-h1 {}
-h2 {}
-h3 {}
-h4 {}
+
 h1, h2 {
   text-align: center;
 }
+
 h1, h2, h3, h4 {
   font-family: 'Poiret One', cursive;
 }
+
 .main h1, .main h2 {
   color: black;
 }
+
 .main h3 {
   text-align: center;
 }
+
 a {
   color: #804d00;
 }
+
 a:hover, a:active {
   color: #fffae6;
 }
+
 .container{
   width: 95%;
 }
+
 .about h4 {
   border-bottom: solid 2px rgba(255, 235, 204,.3);
 }
+
 .skills {
   background-color: rgba(255, 235, 204,.3);
 }
@@ -110,6 +132,7 @@ a:hover, a:active {
     margin: auto;
   }
 }
+
 @media screen and (max-width:840px) {
   .carousel {
     margin-top: 5%;
@@ -118,6 +141,7 @@ a:hover, a:active {
     display:none;
   }
 }
+
 @media screen and (max-width:530px) {
   .item h3 {
     font-size:1em;
@@ -129,41 +153,3 @@ a:hover, a:active {
     margin-top: 2%;
   }
 }
-/* using for troubleshooting to see layout
-.about .firstrow .firstcol {
-  background: yellow;
-  opacity: .3;
-}
-.about .firstrow .secondcol {
-  background: orange;
-  opacity: .3;
-}
-.about .firstrow .thirdcol {
-  background: red;
-  opacity: .3;
-}
-.about .secondrow .firstcol {
-  background: green;
-  opacity: .3;
-}
-.about .secondrow .secondcol {
-  background: blue;
-  opacity: .3;
-}
-.about .secondrow .thirdcol {
-  background: purple;
-  opacity: .3;
-}
-.about .thirdrow .firstcol {
-  background: white;
-  opacity: .3;
-}
-.about .thirdrow .secondcol {
-  background: gray;
-  opacity: .3;
-}
-.about .thirdrow .thirdcol {
-  background: black;
-  opacity: .3;
-}
- */
