@@ -18,7 +18,7 @@ body.projects {
 
 body.about {
   /* moved from body to container because of sizing issues with the hands */
-  background-color: black; /*added background color to blend with photo*/
+  background-color: #1a1300; /*added background color to blend with photo*/
 }
 
 .about .container {
