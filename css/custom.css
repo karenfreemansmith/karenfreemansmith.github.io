@@ -74,7 +74,7 @@ body.about {
 }
 
 .item {
-  background: #fec;
+  background: #fff3e6;
   opacity: .4;
   border-radius: 50%;
   padding: 5%;
@@ -86,8 +86,12 @@ body.about {
   opacity: .9;
 }
 
-.item p:hover {
-  color: black;
+.item p, .item h3 {
+  color: #804d00;
+  background: #fff3e6;
+  width: 100%;
+  padding: 3px 10px;
+  margin: 0;
 }
 
 h1, h2 {
@@ -111,7 +115,7 @@ a {
 }
 
 a:hover, a:active {
-  color: #fffae6;
+  color: #fff3e6;
 }
 
 .container{
