@@ -15,3 +15,30 @@ Reserved words for Java cannot be used as variable or class names. Some are not 
 | [char](https://en.wikipedia.org/wiki/Character) | [final](https://en.wikipedia.org/wiki/Final) | [interface](https://en.wikipedia.org/wiki/Interface) | [static](https://en.wikipedia.org/wiki/Static_variable) | [void](https://en.wikipedia.org/wiki/Void_type) |
 | [class](https://en.wikipedia.org/wiki/Class) | [finally](https://en.wikipedia.org/wiki/Exception_handling_syntax#Java) | [long](https://en.wikipedia.org/wiki/Integer) | [strictfp](https://en.wikipedia.org/wiki/Strictfp) | [volatile](https://en.wikipedia.org/wiki/Volatile) |
 | [const](https://en.wikipedia.org/wiki/Constant) | [float](https://en.wikipedia.org/wiki/Single-precision_floating-point_format) | [native](https://en.wikipedia.org/wiki/Java_Native_Interface) | [super](https://en.wikipedia.org/wiki/Inheritance) | [while](https://en.wikipedia.org/wiki/Do_while_loop) |
+
+## Variables & Data Types
+### Primitive (or simple) Types
+boolean, char, byte, short, int, long, float, double
+
+## Conditional Statements
+* if(*condition*) {
+
+  } else {
+
+  }
+* switch(*value*)
+    case:
+      break;
+    default:
+
+## Looping
+* for() {}
+* while(*condition*) {}
+* do {} while(*condition*)
+
+## Classes & Objects
+* public = available to all
+* protected = available within package
+* private = only available within current code block
+* static
+* void = doesn't return anything
