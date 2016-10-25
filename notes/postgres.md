@@ -1,4 +1,4 @@
-# PostgreSQL
+# PostgreSQL Notes
 
 ## Installation
 * Download and install Windows 64 version

@@ -1,4 +1,4 @@
-# SQL
+# SQL Notes
 (Standard Query Language)
 ## Commands
 #### CREATE
