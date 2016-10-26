@@ -76,188 +76,194 @@
 
 #### Week 3
 ##### (Monday Pair: []())
-* [Favorite Things]()
-* [Groceries]()
-* [Word Play]()
-* [Build a Deck]()
-* [Word Order]()
+* [Favorite Things](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Groceries](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Word Play](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Build a Deck](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Word Order](https://karenfreemansmith.github.io/EpicIntroWk3-)
 
 ##### (Tuesday Pair: []())
-* [Count Up By]()
-* [Word Puzzle]()
-* [Transportation Survey???]()
-* [Stress Test???]()
-* [Fortune Teller Quiz???]()
-* [Factorials]()
-* [Palindromes]()
-* [Prime Sifting]()
+* [Count Up By](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Word Puzzle](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Transportation Survey???](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Stress Test???](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Fortune Teller Quiz???](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Factorials](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Palindromes](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Prime Sifting](https://karenfreemansmith.github.io/EpicIntroWk3-)
 
 ##### (Wednesday Pair: []())
-* [Leap Year]()
-* [Pig Latin]()
-* [Bases]()
+* [Leap Year](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Pig Latin](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Bases](https://karenfreemansmith.github.io/EpicIntroWk3-)
 
 ##### (Thursday Pair: []())
-* [Roman Numerals]()
-* [Crypto Square]()
+* [Roman Numerals](https://karenfreemansmith.github.io/EpicIntroWk3-)
+* [Crypto Square](https://karenfreemansmith.github.io/EpicIntroWk3-)
 
 ##### (Friday Project)
-* [Ping Pong]()
+* [Ping Pong](https://karenfreemansmith.github.io/EpicIntroWk3-)
 
 #### Week 4
 ##### (Monday Pair: [Ewa]())
-* [Address Book]()
-* [ToDo List]()
-* [Places You Have Been]()
+* [Address Book](https://karenfreemansmith.github.io/EpicIntroWk4-)
+* [ToDo List](https://karenfreemansmith.github.io/EpicIntroWk4-)
+* [Places You Have Been](https://karenfreemansmith.github.io/EpicIntroWk4-)
 
 ##### (Tuesday Pair: []())
-* [Movie Tickets]()
-* [Bank Account]()
+* [Movie Tickets](https://karenfreemansmith.github.io/EpicIntroWk4-)
+* [Bank Account](https://karenfreemansmith.github.io/EpicIntroWk4-)
 
 ##### (Wednesday/Thursday Pair: []())
-* [Pig Dice]()
-* [Tic Tac Toe]()
+* [Pig Dice](https://karenfreemansmith.github.io/EpicIntroWk4-)
+* [Tic Tac Toe](https://karenfreemansmith.github.io/EpicIntroWk4-)
 
 ##### (Friday Project)
-* [Pizza Press]()
+* [Pizza Press](https://karenfreemansmith.github.io/EpicIntroWk4-PizzaPress)
 
 #### Week 5
 ##### (Group Project)
-* [Risk]()
+* [Risk](https://karenfreemansmith.github.io/EpicIntroWk5-Risk)
 
 ### Java
 #### Week 1
 ##### (Tuesday Pair: [Georgina]())
-* [Meal Time]()
-* [Code Practice Tracker]()
-* [Car Dealership]()
-* [Triangle Tracker]()
-* [Parcels]()
+* [Meal Time](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Code Practice Tracker](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Car Dealership](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Triangle Tracker](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Parcels](https://karenfreemansmith.github.io/EpicJavaWk1-)
 
 ##### (Wednesday Pair: []())
-* [Ping Pong Refactor]()
-* [Scrabble Scorer]()
-* [Rock, Paper, Scissors]()
-* [Find & Replace]()
-* [Anagrams]()
-* [Palindromes]()
+* [Ping Pong Refactor](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Scrabble Scorer](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Rock, Paper, Scissors](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Find & Replace](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Anagrams](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Palindromes](https://karenfreemansmith.github.io/EpicJavaWk1-)
 
 ##### (Thursday Pair: []())
-* [Leap Year]()
-* [Rectangles]()
-* [Hangman]()
-* [Black Jack]()
+* [Leap Year](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Rectangles](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Hangman](https://karenfreemansmith.github.io/EpicJavaWk1-)
+* [Black Jack](https://karenfreemansmith.github.io/EpicJavaWk1-)
 
 ##### (Friday Project - Event Planner)
 
 #### Week 2
 ##### (Monday Pair: [David Bethune]())
-* [Hello Friend]()
-* [Mad Libs]()
-* [Change Machine]()
+* [Hello Friend](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [Mad Libs](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [Change Machine](https://karenfreemansmith.github.io/EpicJavaWk2-)
 
 ##### (Tuesday Pair: []())
-* [ToDo List]()
-* [Places You've Been]()
-* [CD Organizer]()
+* [ToDo List](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [Places You've Been](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [CD Organizer](https://karenfreemansmith.github.io/EpicJavaWk2-)
 
 ##### (Wednesday Pair: [Caleb Stevenson?]())
-* [Rectangles]()
-* [Resume Creator]()
-* [JobBoard]()
+* [Rectangles](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [Resume Creator](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [JobBoard](https://karenfreemansmith.github.io/EpicJavaWk2-)
 
 ##### (Thursday Pair: [Nhat]())
-* [Go Fish]()
-* [Squad]()
+* [Go Fish](https://karenfreemansmith.github.io/EpicJavaWk2-)
+* [Squad](https://karenfreemansmith.github.io/EpicJavaWk2-)
 
 ##### (Friday Project - Dictionary)
+* [Dictionary](https://karenfreemansmith.github.io/EpicJavaWk2-Dictionary)
 
 #### Week 3
 ##### (Monday Pair: [Jeremy???]())
-* [More ToDo]()
+* [More ToDo](https://karenfreemansmith.github.io/EpicJavaWk3-))
 * [Address Book]()
 
 ##### (Tuesday Pair: [Sara Jensen]())
-* [Doctor's Office]()
-* [Animal Shelter]()
+* [Doctor's Office](https://karenfreemansmith.github.io/EpicJavaWk3-)
+* [Animal Shelter](https://karenfreemansmith.github.io/EpicJavaWk3-)
 
 ##### (Wednesday/Thursday Pair: [Sheena Nickerson]())
-* [Review Site]()
+* [Review Site](https://karenfreemansmith.github.io/EpicJavaWk3-)
 
 ##### (Friday Project - Hair Salon)
+* [Hair Salon](https://karenfreemansmith.github.io/EpicJavaWk3-SparkSalon)
 
 #### Week 4
 ##### (Monday/Tuesday Pair: [Vanessa]())
-* [Virtual Pets]()
-* [Sales Tracker]()
-* [Library Catalog]()
+* [Virtual Pets](https://karenfreemansmith.github.io/EpicJavaWk4-)
+* [Sales Tracker](https://karenfreemansmith.github.io/EpicJavaWk4-)
+* [Library Catalog](https://karenfreemansmith.github.io/EpicJavaWk4-)
 
 ##### (Wednesday Pair: [Shelby]())
-* [Recipe Box]()
-* [Blog]()
+* [Recipe Box](https://karenfreemansmith.github.io/EpicJavaWk4-)
+* [Blog](https://karenfreemansmith.github.io/EpicJavaWk4-)
 
 ##### (Thursday Pair: [Joanna]())
-* [Virtual Pets Front End]()
-* [Message Board]()
+* [Virtual Pets Front End](https://karenfreemansmith.github.io/EpicJavaWk4-)
+* [Message Board](https://karenfreemansmith.github.io/EpicJavaWk4-)
 
 ##### (Friday Project)
+* [Wildlife Tracker](https://karenfreemansmith.github.io/EpicJavaWk4-WildlifeTracker)
 
 #### Week 5
 ##### (Group Project)
+* [Message Board](https://karenfreemansmith.github.io/EpicJavaWk5-Courseware)
 
 ### JavaScript
 #### Week 1
 ##### (Monday Pair: [Amber Farrington]())
-* [Calculator/PingPong]()
-* [Journal]()
-* [Simon]()
-* [Memory]()
+* [Calculator/PingPong](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Journal](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Simon](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Memory](https://karenfreemansmith.github.io/EpicJSWk1-)
 
 ##### (Tuesday Pair: [Dean Scelza]())
-* [Alarm Clock]()
-* [Weather API]()
+* [Alarm Clock](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Weather API](https://karenfreemansmith.github.io/EpicJSWk1-)
 
 ##### (Wednesday/Thursday Pair: [Alex Jacks]())
-* [Dino Ipsum]()
-* [Bike Index]()
-* [Google Maps]()
-* [Other API of Choice]()
+* [Dino Ipsum](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Bike Index](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Google Maps](https://karenfreemansmith.github.io/EpicJSWk1-)
+* [Other API of Choice](https://karenfreemansmith.github.io/EpicJSWk1-)
 
 ##### (Friday Project)
 
 #### Week 2
 ##### (Monday/Tuesday Pair: [Kyle Lange]())
-* [TypeScript ToDo]()
-* [Angular ToDo]()
-* [Taproom]()
+* [TypeScript ToDo](https://karenfreemansmith.github.io/EpicJSWk2-)
+* [Angular ToDo](https://karenfreemansmith.github.io/EpicJSWk2-)
+* [Taproom](https://karenfreemansmith.github.io/EpicJSWk2-)
 
 ##### (Wednesday/Thursday Pair: [Zachary Matthewstearn]())
-* [Music Store]()
-* [Restaurant Reviews]()
+* [Music Store](https://karenfreemansmith.github.io/EpicJSWk2-)
+* [Restaurant Reviews](https://karenfreemansmith.github.io/EpicJSWk2-)
 
 ##### (Friday Project)
 
 #### Week 3
 ##### (Monday Pair: [April Peng]())
-* [Property Rentals]()
+* [Property Rentals](https://karenfreemansmith.github.io/EpicJSWk3-)
 
-##### (Tuesday Pair: [Laura]())
-* [Bustle Clone]()
+##### (Tuesday Pair: [Adam G]())
+* [Bustle Clone](https://karenfreemansmith.github.io/EpicJSWk3-)
 
 ##### (Wednesday/Pair: [Alex]())
-* [Blog]()
+* [Blog](https://karenfreemansmith.github.io/EpicJSWk3-)
 
 ##### (Friday Project)
+* [Project](https://karenfreemansmith.github.io/EpicJSWk3-Project)
+
 #### Week 4
 ##### (Monday Pair: [Tim B]())
-* [Craigslist]()
-* [Help Queue]()
+* [Craigslist](https://karenfreemansmith.github.io/EpicJSWk4-)
+* [Help Queue](https://karenfreemansmith.github.io/EpicJSWk4-)
 
 ##### (Tuesday Pair: [Biggie]())
-* [Enlightened Citizenry API]()
+* [Enlightened Citizenry API](https://karenfreemansmith.github.io/EpicJSWk4-)
 
 ##### (Wednesday/Thursday Pair: [Addison]())
-* [eCommerce Site]()
+* [eCommerce Site](https://karenfreemansmith.github.io/EpicJSWk4-)
 
 ##### (Friday Project)
 #### Week 5
