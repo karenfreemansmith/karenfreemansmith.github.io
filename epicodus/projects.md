@@ -9,11 +9,13 @@
 * [DarrkeThoughts (private-blog)](http://darrkethoughts.com)
 
 ## Social Media sites
-* [LinkedIn]()
-* [GitHub]()
-* [Twitter]()
-* [Medium]()
-* [Facebook]()
+* [LinkedIn](https://www.linkedin.com/in/freemansmith)
+* [GitHub](https://github.com/karenfreemansmith)
+* [Twitter-Tech](https://twitter.com/K_FreemanSmith)
+* [Medium](https://medium.com/@karenfreemansmith)
+* [Reddit](https://www.reddit.com/user/karenfreemansmith/)
+* [Facebook](https://www.facebook.com/karenfreemansmith)
+* [Twitter-Personal](https://twitter.com/darrkethoughts)
 
 ## Epicodus
 ### Introduction to Programming
