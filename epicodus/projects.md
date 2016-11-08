@@ -21,20 +21,14 @@
 ### Introduction to Programming
 #### Week 1
 ##### (Monday Pair: [Stephen Newkirk]())
-* [Hello World](https://github.com/karenfreemansmith/EpicIntroWk1-HelloWorld)
-- [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-HelloWorld)
-* [Goodbye World](https://github.com/karenfreemansmith/EpicIntroWk1-Goodbye)
-- [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-Goodbye)
-* [Cookie Recipe](https://github.com/karenfreemansmith/EpicIntroWk1-CookieRecipe)
-- [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-CookieRecipe)
-* [Pet Website](https://github.com/karenfreemansmith/EpicIntroWk1-PetWebsite)
-- [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PetWebsite)
+* [Hello World](https://github.com/karenfreemansmith/EpicIntroWk1-HelloWorld) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-HelloWorld)
+* [Goodbye World](https://github.com/karenfreemansmith/EpicIntroWk1-Goodbye) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-Goodbye)
+* [Cookie Recipe](https://github.com/karenfreemansmith/EpicIntroWk1-CookieRecipe) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-CookieRecipe)
+* [Pet Website](https://github.com/karenfreemansmith/EpicIntroWk1-PetWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PetWebsite)
 
 ##### (Tuesday Pair: [Amber Farrington]())
-* [My First Website](https://github.com/karenfreemansmith/EpicIntroWk1-FirstWebsite)
-- [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-FirstWebsite)
-* [Resort Website](https://github.com/karenfreemansmith/EpicIntroWk1-PrivateResort)
-- [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PrivateResort)
+* [My First Website](https://github.com/karenfreemansmith/EpicIntroWk1-FirstWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-FirstWebsite)
+* [Resort Website](https://github.com/karenfreemansmith/EpicIntroWk1-DiamondPeak) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PrivateResort)
 
 ##### (Wednesday Pair: [Addison]())
 * [Cupcake Shop](https://github.com/karenfreemansmith/EpicIntroWk1-CupcakeShop) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-CupcakeShop)
