@@ -23,18 +23,17 @@
 ##### (Monday Pair: [Stephen Newkirk]())
 * [Hello World](https://github.com/karenfreemansmith/EpicIntroWk1-HelloWorld) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-HelloWorld)
 * [Goodbye World](https://github.com/karenfreemansmith/EpicIntroWk1-Goodbye) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-Goodbye)
-* [Cookie Recipe](https://github.com/karenfreemansmith/EpicIntroWk1-CookieRecipe) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-CookieRecipe)
-* [Pet Website](https://github.com/karenfreemansmith/EpicIntroWk1-PetWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PetWebsite)
+* [Cookie Recipe](https://github.com/karenfreemansmith/EpicIntroWk1-CookieRecipe) - [Previous Solo Attempt Deleted]
+* [Pet Website](https://github.com/karenfreemansmith/EpicIntroWk1-PetWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-WildLife)
 
 ##### (Tuesday Pair: [Amber Farrington]())
-* [My First Website](https://github.com/karenfreemansmith/EpicIntroWk1-FirstWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-FirstWebsite)
+* [My First Website](https://github.com/karenfreemansmith/EpicIntroWk1-FirstWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-AboutMe)
 * [Resort Website](https://github.com/karenfreemansmith/EpicIntroWk1-DiamondPeak) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PrivateResort)
 
 ##### (Wednesday Pair: [Addison]())
 * [Cupcake Shop](https://github.com/karenfreemansmith/EpicIntroWk1-CupcakeShop) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-CupcakeShop)
 * [Boring Lecture](https://github.com/karenfreemansmith/EpicIntroWk1-BoringLecture) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-BoringLecture)
 * [Blogging Site](https://github.com/karenfreemansmith/EpicIntroWk1-GRRMBlog) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-BlogDesign)
-* [Resume Site](https://github.com/karenfreemansmith/EpicIntroWk1-Resume) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-Resume)
 * [Favorite Band](https://github.com/karenfreemansmith/EpicIntroWk1-DeltaRaeCone) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-BandWebsite)
 * [Interior Decorator](https://github.com/karenfreemansmith/EpicIntroWk1-SnowFlowers) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-InteriorDecorator)
 * [Animal Shelter](https://github.com/karenfreemansmith/EpicIntroWk1-AnimalShelter) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-AnimalShelter)
@@ -54,20 +53,20 @@
 ##### (Tuesday Pair: [Zachary Matthewstern]())
 * [Hobitville Restaurants](https://github.com/karenfreemansmith/EpicIntroWk2-HobitvilleMenus)
 - Combines: [Previous Solo Walrus](https://github.com/karenfreemansmith/LHPWk2-Walrus),
-[Previous Solo Resume](https://github.com/karenfreemansmith/LHPWk2-Resume &
-[Previous Solo Lecture](https://github.com/karenfreemansmith/LHPWk2-BoringLecture)
+[Previous Solo Resume](https://github.com/karenfreemansmith/LHPWk2-Resume} &
+[Previous Solo Lecture](https://github.com/karenfreemansmith/LHPWk2-lecture)
 * [Flashcards](https://github.com/karenfreemansmith/EpicIntroWk2-Flashcards) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-Flashcards)
-* [Cats-vs-Dogs](https://github.com/karenfreemansmith/EpicIntroWk2-CatsVsDogs) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-CatsVsDogs)
+* [Cats-vs-Dogs](https://github.com/karenfreemansmith/EpicIntroWk2-CatsVsDogs) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-catsvsdogs)
 * [Chatbot](https://github.com/karenfreemansmith/EpicIntroWk2-Chatbot) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-Chatbot)
 
-##### (Wednesday Pair: [Adam Gorbhan?]())
+##### (Wednesday Pair: [Adam Gorbhan]())
 * [Book Appointment](https://github.com/karenfreemansmith/EpicIntroWk2-Appointments) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-Appoitments)
-* [Cooking Units](https://github.com/karenfreemansmith/EpicIntroWk2-CookingUnits) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-CookingUnits)
-* [Survey](https://github.com/karenfreemansmith/EpicIntroWk2-VideoGameSurvey) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-Survey)
+* [Cooking Units](https://github.com/karenfreemansmith/EpicIntroWk2-CookingUnits) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-conversions)
+* [Survey](https://github.com/karenfreemansmith/EpicIntroWk2-VideoGameSurvey) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-survey)
 * [Online Marketplace](https://github.com/karenfreemansmith/EpicIntroWk2-Marketplace) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-Marketplace)
 
 ##### (Thursday Pair: [Aimen K?]())
-* [Voting Page/Survey](https://github.com/karenfreemansmith/EpicIntroWk2-VotingSurvey) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-VotingSurvey)
+* [Voting Page/Survey](https://github.com/karenfreemansmith/EpicIntroWk2-VotingSurvey) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-Voting)
 * [Animal Info Page](https://github.com/karenfreemansmith/EpicIntroWk2-AnimalInfo) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-AnimalInfo)
 * [Amusement Park Rides](https://github.com/karenfreemansmith/EpicIntroWk2-AmusementPark) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-AmusementPark)
 * [Celebrity Dating](https://github.com/karenfreemansmith/EpicIntroWk2-CelebrityDating) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk2-CelebrityDating)
