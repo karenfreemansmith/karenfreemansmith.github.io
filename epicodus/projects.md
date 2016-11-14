@@ -27,7 +27,7 @@
 * [Pet Website](https://github.com/karenfreemansmith/EpicIntroWk1-PetWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-WildLife)
 
 ##### (Tuesday Pair: [Amber Farrington]())
-* [My First Website](https://github.com/karenfreemansmith/EpicIntroWk1-FirstWebsite) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-AboutMe)
+* [My First Website](https://github.com/karenfreemansmith/EpicIntroWk1-FirstWebpage) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-AboutMe)
 * [Resort Website](https://github.com/karenfreemansmith/EpicIntroWk1-DiamondPeak) - [Previous Solo Attempt](https://github.com/karenfreemansmith/LHPWk1-PrivateResort)
 
 ##### (Wednesday Pair: [Addison]())
