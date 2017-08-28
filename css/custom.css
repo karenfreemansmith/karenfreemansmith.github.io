@@ -5,9 +5,8 @@ body {
 }
 
 body.main {
-  background-image: url("../img/upview_lg.jpg");
+  background: url("../img/upview_lg.jpg") no-repeat center center fixed;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 
 body.projects {
@@ -45,8 +44,8 @@ body.about {
 }
 
 .main .jumbotron {
-  margin-top: 25%;
-  background: transparent;
+  margin-top: 10%;
+  background: rgba(254,254,254,.0);
 }
 
 .main h1 {
@@ -144,9 +143,26 @@ a:hover, a:active {
   .item p {
     display:none;
   }
+  .main h1 {
+    font-size: 4em;
+  }
+  .main .jumbotron {
+    margin-top: 12%;
+    background: rgba(254,254,254,.0);
+  }
 }
-
+.main .jumbotron {
+  margin-top: 13%;
+  background: rgba(254,254,254,.0);
+}
 @media screen and (max-width:530px) {
+  .main h1 {
+    font-size: 3em;
+  }
+  .main .jumbotron {
+    margin-top: 20%;
+    background: rgba(254,254,254,.0);
+  }
   .item h3 {
     font-size:1em;
   }
